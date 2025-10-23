@@ -1,0 +1,25 @@
+{
+  "sources": [
+    {
+      "chat_id": 3157087401,
+      "topic_id": null
+    },
+    {
+      "chat_id": 2660781107,
+      "topic_id": null
+    },
+    {
+      "chat_id": 2973730048,
+      "topic_id": null
+    }
+  ],
+  "dests": [
+    {
+      "chat_id": 2312543405,
+      "topic_id": 9
+    }
+  ]
+}
+
+
+

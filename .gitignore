@@ -7,14 +7,6 @@ env/
 ENV/
 .venv/
 
-# Configuration files
-config.json
-
-# Telegram session files
-*.session
-*.session-journal
-bot.session
-user_session.session
 
 # Python cache
 __pycache__/
